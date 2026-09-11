@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kesaribyte/ecommerce.git"
+  },
+  "author": "omraje shitole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kesaribyte/ecommerce/issues"
+  },
+  "homepage": "https://github.com/kesaribyte/ecommerce#readme"
+}
