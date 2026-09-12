@@ -6,7 +6,7 @@ const categorySchema = new mongooes.model({
         required:true
     }
 
-}, {timestamp: true})
+}, {timestamps: true})
 
 
 
