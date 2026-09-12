@@ -1,8 +1,14 @@
 import mongooes from "mongooes"
 
-const categorySchema =  mongooes.model({}, {timestamp: true})
+const categorySchema =  mongooes.model({
+    name: {
+        type: String,
+        required:true
+    }
+
+}, {timestamp: true})
 
 
 
 
-export const category = mongoose.model("category", categorySchema)
+export const Category = mongoose.model("Category", categorySchema)
