@@ -1,6 +1,6 @@
 import mongooes from "mongooes"
 
-const categorySchema =  mongooes.model({
+const categorySchema = new mongooes.model({
     name: {
         type: String,
         required:true
