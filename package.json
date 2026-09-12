@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kesaribyte/ecommerce/issues"
   },
-  "homepage": "https://github.com/kesaribyte/ecommerce#readme"
+  "homepage": "https://github.com/kesaribyte/ecommerce#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
